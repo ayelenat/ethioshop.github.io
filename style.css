@@ -1,0 +1,27 @@
+.top-section{
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+}
+
+nav{
+    justify-content: space-between;
+    max-width: 100%;
+    align-items: center;
+    padding:10px;
+    margin:0 auto;
+    margin-left: 10rem;
+    display: flex;
+}
+
+.navbar-section{
+    height:83.68px;
+    align-items: center;
+    margin-left: 70%;
+    width:300px;
+}
+
+.navbar-section nav{
+    justify-content: space-between;
+    padding:30px;
+}
